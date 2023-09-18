@@ -156,6 +156,7 @@ a {
 /* hero section right section start */
 .hero-section-right {
   position: relative;
+  margin: 1rem;
 }
 .absolute {
   position: absolute;
